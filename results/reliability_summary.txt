@@ -1,0 +1,2 @@
+Cronbach's alpha = 0.606
+KMO = 0.531
